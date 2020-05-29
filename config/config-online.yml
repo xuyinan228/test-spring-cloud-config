@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: springcloud-provider-online
+info:
+  name: springcloud-config-online
