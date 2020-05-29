@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: springcloud-provider-test
+info:
+  name: springcloud-config-test
