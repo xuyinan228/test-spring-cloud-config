@@ -1,3 +1,2 @@
-spring:
-  application:
-    name: springcloud-provider-dev
+info:
+  name: springcloud-config-dev
